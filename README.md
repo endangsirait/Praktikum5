@@ -31,6 +31,7 @@ INPUT
 
 ![Kode2](https://github.com/user-attachments/assets/979cb331-e41c-4ff5-a6f8-e1a20fd0f7ad)
 
+
 OUTPUT
 
 ![image](https://github.com/user-attachments/assets/2a264c8b-ed59-4cc6-8db8-681623ba1960)
